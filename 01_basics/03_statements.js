@@ -1,7 +1,7 @@
 // A statement is an instruction to the computer, browser, the JavaScript interpreter to do something.
 
 var first = "wes"; // variable declaration statement
-let age2 = 300;
+let age = 300;
 const cool1 = true;
 console.log(first); // function call statement
 
@@ -13,6 +13,6 @@ if (age > 10) {
   }
 
 // ex2:-
-if (age > 10) {;
+if (age < 10) {;
     console.log("you are old");
   };

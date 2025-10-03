@@ -16,3 +16,6 @@ user.product = "Kerastas"
 user.buyingMessage()
 
 // Output:- Kerastas , Thank you for buying.
+
+// Indulgence in deeper concept-
+
